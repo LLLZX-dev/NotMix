@@ -1,11 +1,12 @@
 ### Hello! 👋
 
-   ✨DAMO1337✨ 
+   ✨X1MTON✨ 
 
-- 🔭 I’m currently working on Project Era
+- 🔭 Creator of Project Era
+ - Currently working on StormFN
 - 🌱 I’m currently learning C++
 - 💬 Ask me about anything
-- 📫 How to reach me: [Discord Server](https://discord.gg/eakbHENMeN)
+- 📫 How to reach me: mix#0494
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am Polish
 -->

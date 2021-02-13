@@ -1,9 +1,9 @@
 ### Hello! 👋
 
-   ✨X1MTON✨ 
+   ✨mix✨ 
 
 - 🔭 Creator of Project Era
- - Currently working on StormFN
+ - Currently working on StormFN and Project Era.
 - 🌱 I’m currently learning C++
 - 💬 Ask me about anything
 - 📫 How to reach me: mix#0494

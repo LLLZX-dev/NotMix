@@ -3,8 +3,8 @@
    ✨mix✨ 
 
 - 🔭 Creator of Project Era
- - Currently working on StormFN and Project Era.
-- 🌱 I’m currently learning C++
+ - Currently working on Project Era, SpritFN
+- 🌱 I’m currently learning Prolog, C++
 - 💬 Ask me about anything
 - 📫 How to reach me: mix#0494
 - 😄 Pronouns: He/Him
